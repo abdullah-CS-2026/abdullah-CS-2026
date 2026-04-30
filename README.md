@@ -69,4 +69,4 @@
 ---
 
 ## 📄 Resume
-[View My Resume](https://raw.githubusercontent.com/abdullah-CS-2026/resume/main/Muhammad_Abdullah_Resume.pdf)
+[View My Resume](https://raw.githubusercontent.com/abdullah-CS-2026/resume/main/Muhammad___Abdullah.pdf)
