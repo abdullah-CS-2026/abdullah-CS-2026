@@ -64,7 +64,8 @@
 ## 📫 Contact Me
 - Email: iamabdullah536@gmail.com  
 - LinkedIn:https://www.linkedin.com/in/abdullah2026
-- GitHub: https://github.com/abdullah-CS-2026  
+- GitHub: https://github.com/abdullah-CS-2026
+- Portfolio: https://portfolio-abdullah-dev.vercel.app
 
 ---
 
