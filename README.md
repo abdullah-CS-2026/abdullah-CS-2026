@@ -83,4 +83,4 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB,
 ---
 
 ## 📄 Resume
-[View My Resume](https://raw.githubusercontent.com/abdullah-CS-2026/resume/main/Muhammad___Abdullah.pdf)
+[View My Resume](https://raw.githubusercontent.com/abdullah-CS-2026/resume/main/Muhammad Abdullah.pdf)
