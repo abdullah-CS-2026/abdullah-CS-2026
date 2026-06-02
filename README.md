@@ -65,10 +65,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=abdullah-CS-2026&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-CS-2026&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-CS-2026&theme=tokyonight)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-CS-2026&theme=tokyo-night)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-CS-2026&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ## 📫 Contact Me
