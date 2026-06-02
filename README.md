@@ -43,31 +43,35 @@
 ## 🚀 My Projects
 
 ### 🧠 AI-Powered House Bidding Platform
+🔗 Live Demo: house-bidding-estimator.vercel.app
 - Full-stack MERN application with real-time bidding system  
 - AI-based 2D floor plan generator using ML models  
 - Implemented constraint-based layout validation  
+Tech Stack: React.js, Node.js, Express.js, MongoDB, Python.
 
 ### 🩸 Blood Donor System
 - Web platform connecting donors and recipients  
 - Real-time database using Firebase  
-- Smart search & request handling system  
+- Smart search & request handling system
+Tech Stack: React.js, Node.js, Express.js, Firebase
 
 ### 🎯 Quiz Application
 - Interactive React-based quiz system  
 - Score tracking & answer validation  
-- Responsive UI for better UX  
+- Responsive UI for better UX
+Tech Stack: React.js, Node.js, Express.js, MongoDB,
 
 ### ✍️ Handwriting Recognition System
 - Built using TensorFlow + Scikit-learn  
 - MobileNetV2 for feature extraction  
 - SVM-based classification model  
-
+**Technologies:** Python, PyTorch, Scikit-learn
 ---
 
 ## 📊 GitHub Stats
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-CS-2026&theme=tokyo-night)
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-CS-2026&theme=tokyonight)](https://git.io/streak-stats)
+
 ---
 
 ## 📫 Contact Me
